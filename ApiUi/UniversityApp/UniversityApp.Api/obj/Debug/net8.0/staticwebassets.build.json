@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "FUp3nMR/3HgaqtBKhHHomfWWDAjaIAJE/a2ei1rO6Bo=",
+  "Source": "UniversityApp.Api",
+  "BasePath": "_content/UniversityApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UniversityApp.Api\\wwwroot",
+      "Source": "UniversityApp.Api",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\UniversityApp.Api\\wwwroot\\",
+      "BasePath": "_content/UniversityApp.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

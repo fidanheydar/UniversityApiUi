@@ -1,0 +1,320 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C00093D-ACD8-431B-92F4-82B03E1FC9E4}|UniversityApp.UI\\UniversityApp.UI.csproj|c:\\users\\hp\\desktop\\ui\\pb302_api\\universityapp\\universityapp.ui\\views\\group\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C00093D-ACD8-431B-92F4-82B03E1FC9E4}|UniversityApp.UI\\UniversityApp.UI.csproj|solutionrelative:universityapp.ui\\views\\group\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C00093D-ACD8-431B-92F4-82B03E1FC9E4}|UniversityApp.UI\\UniversityApp.UI.csproj|c:\\users\\hp\\desktop\\ui\\pb302_api\\universityapp\\universityapp.ui\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C00093D-ACD8-431B-92F4-82B03E1FC9E4}|UniversityApp.UI\\UniversityApp.UI.csproj|solutionrelative:universityapp.ui\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440DA6C4-C0BF-42BC-8E29-C3849A253EEC}|UniversityApp.Service\\UniversityApp.Service.csproj|c:\\users\\hp\\desktop\\ui\\pb302_api\\universityapp\\universityapp.service\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440DA6C4-C0BF-42BC-8E29-C3849A253EEC}|UniversityApp.Service\\UniversityApp.Service.csproj|solutionrelative:universityapp.service\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440DA6C4-C0BF-42BC-8E29-C3849A253EEC}|UniversityApp.Service\\UniversityApp.Service.csproj|c:\\users\\hp\\desktop\\ui\\pb302_api\\universityapp\\universityapp.service\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440DA6C4-C0BF-42BC-8E29-C3849A253EEC}|UniversityApp.Service\\UniversityApp.Service.csproj|solutionrelative:universityapp.service\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C00093D-ACD8-431B-92F4-82B03E1FC9E4}|UniversityApp.UI\\UniversityApp.UI.csproj|c:\\users\\hp\\desktop\\ui\\pb302_api\\universityapp\\universityapp.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C00093D-ACD8-431B-92F4-82B03E1FC9E4}|UniversityApp.UI\\UniversityApp.UI.csproj|solutionrelative:universityapp.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C00093D-ACD8-431B-92F4-82B03E1FC9E4}|UniversityApp.UI\\UniversityApp.UI.csproj|c:\\users\\hp\\desktop\\ui\\pb302_api\\universityapp\\universityapp.ui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C00093D-ACD8-431B-92F4-82B03E1FC9E4}|UniversityApp.UI\\UniversityApp.UI.csproj|solutionrelative:universityapp.ui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B69509-4B07-4EFF-9CF8-D7A5402D60FC}|UniversityApp.Api\\UniversityApp.Api.csproj|c:\\users\\hp\\desktop\\ui\\pb302_api\\universityapp\\universityapp.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0B69509-4B07-4EFF-9CF8-D7A5402D60FC}|UniversityApp.Api\\UniversityApp.Api.csproj|solutionrelative:universityapp.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B69509-4B07-4EFF-9CF8-D7A5402D60FC}|UniversityApp.Api\\UniversityApp.Api.csproj|c:\\users\\hp\\desktop\\ui\\pb302_api\\universityapp\\universityapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0B69509-4B07-4EFF-9CF8-D7A5402D60FC}|UniversityApp.Api\\UniversityApp.Api.csproj|solutionrelative:universityapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B69509-4B07-4EFF-9CF8-D7A5402D60FC}|UniversityApp.Api\\UniversityApp.Api.csproj|c:\\users\\hp\\desktop\\ui\\pb302_api\\universityapp\\universityapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0B69509-4B07-4EFF-9CF8-D7A5402D60FC}|UniversityApp.Api\\UniversityApp.Api.csproj|solutionrelative:universityapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B69509-4B07-4EFF-9CF8-D7A5402D60FC}|UniversityApp.Api\\UniversityApp.Api.csproj|c:\\users\\hp\\desktop\\ui\\pb302_api\\universityapp\\universityapp.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0B69509-4B07-4EFF-9CF8-D7A5402D60FC}|UniversityApp.Api\\UniversityApp.Api.csproj|solutionrelative:universityapp.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440DA6C4-C0BF-42BC-8E29-C3849A253EEC}|UniversityApp.Service\\UniversityApp.Service.csproj|c:\\users\\hp\\desktop\\ui\\pb302_api\\universityapp\\universityapp.service\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440DA6C4-C0BF-42BC-8E29-C3849A253EEC}|UniversityApp.Service\\UniversityApp.Service.csproj|solutionrelative:universityapp.service\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440DA6C4-C0BF-42BC-8E29-C3849A253EEC}|UniversityApp.Service\\UniversityApp.Service.csproj|c:\\users\\hp\\desktop\\ui\\pb302_api\\universityapp\\universityapp.service\\dtos\\studentdtos\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440DA6C4-C0BF-42BC-8E29-C3849A253EEC}|UniversityApp.Service\\UniversityApp.Service.csproj|solutionrelative:universityapp.service\\dtos\\studentdtos\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440DA6C4-C0BF-42BC-8E29-C3849A253EEC}|UniversityApp.Service\\UniversityApp.Service.csproj|c:\\users\\hp\\desktop\\ui\\pb302_api\\universityapp\\universityapp.service\\interfaces\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440DA6C4-C0BF-42BC-8E29-C3849A253EEC}|UniversityApp.Service\\UniversityApp.Service.csproj|solutionrelative:universityapp.service\\interfaces\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440DA6C4-C0BF-42BC-8E29-C3849A253EEC}|UniversityApp.Service\\UniversityApp.Service.csproj|c:\\users\\hp\\desktop\\ui\\pb302_api\\universityapp\\universityapp.service\\implementations\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440DA6C4-C0BF-42BC-8E29-C3849A253EEC}|UniversityApp.Service\\UniversityApp.Service.csproj|solutionrelative:universityapp.service\\implementations\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195D72EE-6DDD-4A9F-98C5-EC3E253CDC33}|UniversityApp.Data\\UniversityApp.Data.csproj|c:\\users\\hp\\desktop\\ui\\pb302_api\\universityapp\\universityapp.data\\repositories\\implmentations\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{195D72EE-6DDD-4A9F-98C5-EC3E253CDC33}|UniversityApp.Data\\UniversityApp.Data.csproj|solutionrelative:universityapp.data\\repositories\\implmentations\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195D72EE-6DDD-4A9F-98C5-EC3E253CDC33}|UniversityApp.Data\\UniversityApp.Data.csproj|c:\\users\\hp\\desktop\\ui\\pb302_api\\universityapp\\universityapp.data\\universitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{195D72EE-6DDD-4A9F-98C5-EC3E253CDC33}|UniversityApp.Data\\UniversityApp.Data.csproj|solutionrelative:universityapp.data\\universitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B69509-4B07-4EFF-9CF8-D7A5402D60FC}|UniversityApp.Api\\UniversityApp.Api.csproj|c:\\users\\hp\\desktop\\ui\\pb302_api\\universityapp\\universityapp.api\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0B69509-4B07-4EFF-9CF8-D7A5402D60FC}|UniversityApp.Api\\UniversityApp.Api.csproj|solutionrelative:universityapp.api\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C00093D-ACD8-431B-92F4-82B03E1FC9E4}|UniversityApp.UI\\UniversityApp.UI.csproj|c:\\users\\hp\\desktop\\ui\\pb302_api\\universityapp\\universityapp.ui\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C00093D-ACD8-431B-92F4-82B03E1FC9E4}|UniversityApp.UI\\UniversityApp.UI.csproj|solutionrelative:universityapp.ui\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\UniversityApp.UI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UniversityApp.UI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\UniversityApp.UI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UniversityApp.UI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T12:30:15.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GroupController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\UniversityApp.UI\\Controllers\\GroupController.cs",
+              "RelativeDocumentMoniker": "UniversityApp.UI\\Controllers\\GroupController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\UniversityApp.UI\\Controllers\\GroupController.cs",
+              "RelativeToolTip": "UniversityApp.UI\\Controllers\\GroupController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:56:48.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\UniversityApp.UI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "UniversityApp.UI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\UniversityApp.UI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "UniversityApp.UI\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:59:29.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\UniversityApp.Service\\Implementations\\StudentService.cs",
+              "RelativeDocumentMoniker": "UniversityApp.Service\\Implementations\\StudentService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\UniversityApp.Service\\Implementations\\StudentService.cs",
+              "RelativeToolTip": "UniversityApp.Service\\Implementations\\StudentService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwH8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:36:06.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\UniversityApp.Service\\Implementations\\AuthService.cs",
+              "RelativeDocumentMoniker": "UniversityApp.Service\\Implementations\\AuthService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\UniversityApp.Service\\Implementations\\AuthService.cs",
+              "RelativeToolTip": "UniversityApp.Service\\Implementations\\AuthService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA1wB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:35:22.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\UniversityApp.UI\\Views\\Group\\Index.cshtml",
+              "RelativeDocumentMoniker": "UniversityApp.UI\\Views\\Group\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\UniversityApp.UI\\Views\\Group\\Index.cshtml",
+              "RelativeToolTip": "UniversityApp.UI\\Views\\Group\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T17:01:36.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\UniversityApp.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "UniversityApp.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\UniversityApp.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "UniversityApp.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:31:38.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\UniversityApp.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "UniversityApp.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\UniversityApp.Api\\appsettings.json",
+              "RelativeToolTip": "UniversityApp.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T11:37:51.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\UniversityApp.Api\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "UniversityApp.Api\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\UniversityApp.Api\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "UniversityApp.Api\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:51:55.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\UniversityApp.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UniversityApp.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\UniversityApp.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UniversityApp.Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T11:49:36.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\UniversityApp.Service\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "UniversityApp.Service\\Interfaces\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\UniversityApp.Service\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "UniversityApp.Service\\Interfaces\\IStudentService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:54:26.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\UniversityApp.Service\\Dtos\\StudentDtos\\StudentUpdateDto.cs",
+              "RelativeDocumentMoniker": "UniversityApp.Service\\Dtos\\StudentDtos\\StudentUpdateDto.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\UniversityApp.Service\\Dtos\\StudentDtos\\StudentUpdateDto.cs",
+              "RelativeToolTip": "UniversityApp.Service\\Dtos\\StudentDtos\\StudentUpdateDto.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwDIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:56:16.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GroupService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\UniversityApp.Service\\Implementations\\GroupService.cs",
+              "RelativeDocumentMoniker": "UniversityApp.Service\\Implementations\\GroupService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\UniversityApp.Service\\Implementations\\GroupService.cs",
+              "RelativeToolTip": "UniversityApp.Service\\Implementations\\GroupService.cs",
+              "ViewState": "AQIAAA4AAAAA7iHDPNoZwDsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T17:07:04.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGroupService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\UniversityApp.Service\\Interfaces\\IGroupService.cs",
+              "RelativeDocumentMoniker": "UniversityApp.Service\\Interfaces\\IGroupService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\UniversityApp.Service\\Interfaces\\IGroupService.cs",
+              "RelativeToolTip": "UniversityApp.Service\\Interfaces\\IGroupService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T17:05:42.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\UniversityApp.Data\\Repositories\\Implmentations\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "UniversityApp.Data\\Repositories\\Implmentations\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\UniversityApp.Data\\Repositories\\Implmentations\\StudentRepository.cs",
+              "RelativeToolTip": "UniversityApp.Data\\Repositories\\Implmentations\\StudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:34:55.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UniversityDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\UniversityApp.Data\\UniversityDbContext.cs",
+              "RelativeDocumentMoniker": "UniversityApp.Data\\UniversityDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\UniversityApp.Data\\UniversityDbContext.cs",
+              "RelativeToolTip": "UniversityApp.Data\\UniversityDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:34:21.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GroupsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\UniversityApp.Api\\Controllers\\GroupsController.cs",
+              "RelativeDocumentMoniker": "UniversityApp.Api\\Controllers\\GroupsController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\UniversityApp.Api\\Controllers\\GroupsController.cs",
+              "RelativeToolTip": "UniversityApp.Api\\Controllers\\GroupsController.cs",
+              "ViewState": "AQIAABwAAACAM3XIvTYlwBgAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T17:04:08.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\UniversityApp.UI\\Views\\Home\\Error.cshtml",
+              "RelativeDocumentMoniker": "UniversityApp.UI\\Views\\Home\\Error.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\ui\\PB302_API\\UniversityApp\\UniversityApp.UI\\Views\\Home\\Error.cshtml",
+              "RelativeToolTip": "UniversityApp.UI\\Views\\Home\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T17:01:19.448Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
